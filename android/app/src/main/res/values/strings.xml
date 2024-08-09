@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GIEO GITA</string>
+    <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true" translatable="false">DO_NOT_ASK_JAVASCRIPT</string>
+    <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
+     <string moduleConfig="true" name="CodePushDeploymentKey">plMagnfgmns4bTvGGRuqHFcRHLo3n9rZIw79V</string>
+
+<string name="facebook_app_id">681644770479642</string>
+<string name="fb_login_protocol_scheme">fb681644770479642</string>
+<string name="facebook_client_token">e34b49d5b67fba6d89c8e45b6e67a2dc</string>
+
+
+</resources>

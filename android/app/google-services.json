@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "219115132027",
+    "project_id": "giogita-93fe1",
+    "storage_bucket": "giogita-93fe1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219115132027:android:018855cf400ffc6e403ede",
+        "android_client_info": {
+          "package_name": "com.giogita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219115132027-723b35dlldk9n663lo64frli19iq07gt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.giogita",
+            "certificate_hash": "e9b7a3bc03b14d4f431db56c95b275840840bb7a"
+          }
+        },
+        {
+          "client_id": "219115132027-ant2dlkm3j6brs8v9hjmm83d07avv12h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.giogita",
+            "certificate_hash": "bd6dbdda1c36eba0308cbbbc8a0bbaeea3fff46b"
+          }
+        },
+        {
+          "client_id": "219115132027-h34uflvt8rj9659rsqmem1sbdqhhcfok.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.giogita",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "219115132027-o86caq8g9jrihb7hrqh7ota7gcnpncl7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.giogita",
+            "certificate_hash": "c23a5ca4b9249f2b2d7e2a1294e5bc8790b6f538"
+          }
+        },
+        {
+          "client_id": "219115132027-ndbi5d0j68pci1ru3u4ku1sqtiikspvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0k3Ci9oVqAigz6eXNR48Fu2N22BsNnFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219115132027-803rl40f31j6d6j0vbpd0tm35j6hlspi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
